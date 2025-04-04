@@ -1,8 +1,8 @@
 # Alunos:
 - Geraldo Pereira de Castro Júnior
 - Matheus Miranda Peixoto
-- Sergio .
-- Claúdio .
+- Sergio Lemos de Andrade Neto
+- Claúdio Henrique de Araújo Silva
 
 ## [Acesse aqui o site com a linha do tempo](https://htmlpreview.github.io/?https://github.com/BEARaldo/IHC---A-historia-do-VAR/blob/main/AboutVar.com.html)
 # Linha do Tempo do VAR no Futebol
